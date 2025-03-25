@@ -27,7 +27,7 @@ SECRET_KEY = "django-insecure-euz(35rb^7_^9(*@mru&95nnwr8v_adfb(2v+vv0!m8!+vro*1
 DEBUG = True
 # DEBUG = False # boto3のコメントアウトは不要
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
